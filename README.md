@@ -1,6 +1,6 @@
 # YouTube Studio Editor - Playback Repair
 
-Fixes a common YouTube Studio editor bug where the toolbar disappears, the play/pause button stops responding, and the video freezes on the current frame.
+<a href="https://www.tampermonkey.net/">User script</a> to fix a common YouTube Studio editor bug where the toolbar disappears, the play/pause button stops responding, and the video freezes on the current frame.
 
 - Adds a small "⟳ Repair editor" button in the bottom-right corner of the editor (or trigger it with **Alt+R**)
 - Removes the inline style YouTube sometimes applies to hide the toolbar, without disturbing its original layout
