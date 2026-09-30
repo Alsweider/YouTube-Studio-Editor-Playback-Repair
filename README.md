@@ -9,6 +9,11 @@ Fixes a common YouTube Studio editor bug where the toolbar disappears, the play/
 
 The page itself is never reloaded, so unsaved cuts and other edits stay intact. Unlike simply refreshing the tab, the usual workaround, which discards anything unsaved.
 
-**Usage**
+## Download
+* <a href="https://github.com/Alsweider/YouTube-Studio-Editor-Playback-Repair/releases/latest">Github</a>
+* <a href="https://greasyfork.org/de/scripts/525859-remove-focus-on-section">Greasyfork</a>
+* <a href="https://gist.github.com/Alsweider/0d76f88ab902317bba91bb08a9aeaa7c">Gist</a>
+
+## Usage
 
 Open a video in the YouTube Studio editor as normal. If the toolbar disappears or playback freezes, click the button (or press Alt+R). No configuration required.
