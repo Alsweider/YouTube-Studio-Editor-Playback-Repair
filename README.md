@@ -11,8 +11,8 @@ The page itself is never reloaded, so unsaved cuts and other edits stay intact. 
 
 ## Download
 * <a href="https://github.com/Alsweider/YouTube-Studio-Editor-Playback-Repair/releases/latest">Github</a>
-* <a href="https://greasyfork.org/de/scripts/525859-remove-focus-on-section">Greasyfork</a>
-* <a href="https://gist.github.com/Alsweider/0d76f88ab902317bba91bb08a9aeaa7c">Gist</a>
+* <a href="https://greasyfork.org/de/scripts/598040-youtube-studio-editor-playback-repair">Greasyfork</a>
+* <a href="https://gist.github.com/Alsweider/6c2c41d9e40ca005ff2d29fced89f50a">Gist</a>
 
 ## Usage
 
